@@ -1,6 +1,12 @@
 # helm/chart-testing-action
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/helm/chart-testing-action](https://github.com/helm/chart-testing-action).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v2.8.0 | [`v2.8.0`](https://github.com/chainguard-actions/chart-testing-action/tree/v2.8.0) | — |
 
 ## Privacy
 
