@@ -1,5 +1,7 @@
 # helm/chart-testing-action
 
+A GitHub Action to lint and test Helm charts
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/helm/chart-testing-action](https://github.com/helm/chart-testing-action).
 
 ## Versions
