@@ -1,0 +1,6 @@
+{
+  "owner": "helm",
+  "repo": "chart-testing-action",
+  "version": "",
+  "url": "https://github.com/helm/chart-testing-action"
+}
