@@ -1,7 +1,7 @@
 {
   "owner": "helm",
   "name": "chart-testing-action",
-  "visibility": "internal",
+  "visibility": "public",
   "description": "A GitHub Action to lint and test Helm charts",
   "block_publish": false
 }
